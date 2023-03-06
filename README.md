@@ -1,4 +1,4 @@
-# Heterogeneous-ensemble
+# Heterogeneous-ensemble using churn dataset
 
 A heterogeneous ensemble is a type of predictive model that combines the predictions of multiple models with different architectures or algorithms to improve the overall accuracy and robustness of the predictions. To perform a predictive analysis using a heterogeneous ensemble on the insurance dataset, we can follow the following steps:
 
